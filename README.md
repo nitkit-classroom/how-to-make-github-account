@@ -8,14 +8,12 @@
 1. GitHubのログインページ「[https://github.com/login](https://github.com/login)」へアクセス
 2. 「Create an account」をクリック
 
-![](materials/Pasted%20image%2020250408102127.png)
-
+![](materials/Pasted%20image%2020250408102127.png)  
 図1 GitHubログインページ
 
 3. 「Sign up to GitHub」ページが表示されるので、次の通り入力して、「Continue」をクリック
 
-![](materials/Pasted%20image%2020250408102444.png)
-
+![](materials/Pasted%20image%2020250408102444.png)  
 図2 サインアップページ
 
 表1 入力する項目名
@@ -30,8 +28,7 @@
 5. 視覚パズルを解いて「送信」をクリック
 6. 「Confirm your email address」ページ（図中左）が表示されるので、メールの受信ボックスに届いたGitHubのメール（図中右）に書かれた8桁のコードを入力する。
 
-![](materials/Pasted%20image%2020250408102558.png)
-
+![](materials/Pasted%20image%2020250408102558.png)  
 図3 コードの入力
 
 7. これでGitHubのアカウントの作成が完了する。改めてGitHubのログインページが表示されるので、ユーザー名とパスワードを入力してログインする。
